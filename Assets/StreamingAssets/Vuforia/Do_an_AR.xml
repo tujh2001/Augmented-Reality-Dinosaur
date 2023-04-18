@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="vector-cartoon-angry-triceratops-charging-260nw-778125022" size="0.150000 0.075812" />
+    <ImageTarget name="stegosaurus-grazing-open-spaces-53100890" size="0.200000 0.135250" />
+    <ImageTarget name="360_F_317214542_cYzfbM38DXa59XgzPgt9zDton8EsWX8y" size="0.200000 0.127208" />
+    <ImageTarget name="velociraptor-dinosaur-doodle-outline-white-background_1308-89482" size="0.150000 0.096565" />
+    <ImageTarget name="brachiosaurus-hand-drawn-sketch-illustration-30927488" size="0.150000 0.150000" />
+  </Tracking>
+</QCARConfig>
